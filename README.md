@@ -30,7 +30,7 @@ vovós, etc.
 Casos de Uso Preliminares 
 Aqui são apresentados os casos de uso preliminares que, devido a sua natureza intuitiva e grau de
 abstração, não receberão mais detalhes além de sua descrição textual.
--|ver diagramas/caso de uso|- /sysroot/home/marcelo/rec-balance/caso_uso.png
+-|ver diagramas/caso de uso|- caso_uso.png
 
 Descrição Textual dos Casos de Uso Preliminares 
 
